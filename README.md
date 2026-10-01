@@ -76,7 +76,7 @@ Merhaba, ben **Alparslan Tuna Şen**. Yalova Üniversitesi Bilgisayar Programcı
 Cilt bakımı / kozmetik B2C platformu — React vitrin, admin paneli, PayTR, kargo & stok.
 
 <!-- PROJE_LINKLERI: href değerlerini güncelle -->
-🔗 [Canlı site](https://astaticaret.com) · [Kaynak](https://github.com/qAlparslan/asta-shop)
+🔗 [astaticaret.com](https://astaticaret.com)
 
 </td>
 <td width="50%">
