@@ -2,7 +2,7 @@
   GITHUB PROFİL README — qAlparslan/qAlparslan reposuna koyulur (username = repo adı).
   Bu dosyayı düzenle → commit → push. Profil sayfanda otomatik görünür.
   Aşağıdaki HTML yorumları (<!-- ... -->) sadece senin için; GitHub'da görünmez.
-============================================================================= -->
+<!-- ============================================================================= -->
 
 <!-- BANNER: Üstteki dalga/gradient görsel. Metni değiştirmek için URL içindeki text=... kısmını düzenle.
      Renk: color=gradient veya color=EA580C (turuncu) gibi hex. -->
