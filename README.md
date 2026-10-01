@@ -93,10 +93,10 @@ Cilt bakımı / kozmetik B2C platformu — React vitrin, admin paneli, PayTR, ka
 ---
 
 <!-- PIN_REPOLAR: GitHub profilinde "Pinned" ile aynı repoları öne çıkar. Liste görsel değil, hatırlatma. -->
-## 📌 Pin’lenen repolar
+<!-- ## 📌 Pin’lenen repolar
 
 Profilde **Customize your pins** ile vitrin repolarını seç (ör. `asta-shop`, portfolyo `qAlparslan.github.io`).
-
+-->
 <!-- SON_AKTIVITE: opsiyonel — istağı kapatmak için bu bölümü sil -->
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=qAlparslan&theme=default&hide_border=true&area=true&color=EA580C&line=7C3AED" alt="Aktivite grafiği" /> -->
 
@@ -110,4 +110,3 @@ Profilde **Customize your pins** ile vitrin repolarını seç (ör. `asta-shop`,
 <!-- ZIYARETCI_SAYACI: opsiyonel — profile-counter.glitch.me/username -->
 <!-- <p align="center"><img src="https://profile-counter.glitch.me/qAlparslan/count.svg" alt="Ziyaret" /></p> -->
 
-<p align="center"><sub>README şablonu — yorum satırları (<code>&lt;!-- --&gt;</code>) GitHub'da görünmez.</sub></p>
